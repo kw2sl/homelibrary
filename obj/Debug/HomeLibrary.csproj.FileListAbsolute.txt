@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\HomeLibrary\bin\Debug\HomeLibrary.exe.config
+C:\Users\user\source\repos\HomeLibrary\bin\Debug\HomeLibrary.exe
+C:\Users\user\source\repos\HomeLibrary\bin\Debug\HomeLibrary.pdb
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.HomeLibrary.resources
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.Properties.fNewBook.resources
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.Properties.Resources.resources
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.exe
+C:\Users\user\source\repos\HomeLibrary\obj\Debug\HomeLibrary.pdb
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\bin\Debug\HomeLibrary.exe.config
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\bin\Debug\HomeLibrary.exe
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\bin\Debug\HomeLibrary.pdb
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.Properties.fNewBook.resources
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.Properties.Resources.resources
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.exe
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.pdb
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.Properties.fInfo.resources
+C:\Users\user\Desktop\ВНТУ ЛАБИ І ПР\MyPrograms2\HomeLibrary\obj\Debug\HomeLibrary.fHomeLibrary.resources
